@@ -1,0 +1,46 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+Blackjack Simulator/Game
+TODO
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+A program, hopefully a website or mobile game, that simulates are game of blackjack. 
+TODO
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+Our project will simulate a game of blackjack. The game will take input from the player as they play the 
+hand of blackjack. Within the game there will be different twists and maybe clues to win 
+free "money" or to get the best hand possible on the next hand. It will include an abundance of these twists. We will 
+work on it together at times that work for all of us. We are shooting for a website or mobile game.
+TODO
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+no
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+Ryan Coyle tuo69799@temple.edu Nichols and Fan, Chris Christmas tuo46020@temple.edu Nichols and Fan.
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+What we plan on accomplishing no matter what in our project, is a program that runs in Idle that simulates
+as many games of blackjack that you want. 
+TODO
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+I think that we will be able to accomplish a 2D game of blackajack with actual photos of cards.
+TODO
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+The best outcome would be a fully functioning game of blackjack won a website or mobile app that has sound effects.
+TODO
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+The step that we are taking now is to write the base code for the blackjack game and to work out all of the
+little errors that could come along with it. After we do this we can try and move it to possibly a 2D game of 
+blackjack. At the end if we are able to do all of the above than we can try and get it onto a website or a 
+mobile device. We will be working together during almost all of the project.
+TODO
